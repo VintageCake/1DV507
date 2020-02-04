@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ls223qx_lab2.SimpleDataStructures.ex1_queue","l":"LinkedQueue"},{"p":"ls223qx_lab2.SimpleDataStructures.ex1_queue","l":"Queue"}]
